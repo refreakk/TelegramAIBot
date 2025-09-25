@@ -68,7 +68,7 @@
 - 🌐 **Nginx-прокси** для API
 - 🔌 OpenAI, Stability, Anthropic, Google, xAI
 - 🤖 Telegram Bot API
-- 💰 Mini App Telegram (оплата через ТБАНК — отдельный модуль не включенный в данную реализацию)
+- 💰 Mini App Telegram (оплата через ТБАНК и тарифы)
 
 ---
 
