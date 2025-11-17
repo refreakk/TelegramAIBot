@@ -13,8 +13,8 @@
 
 ### 💬 Мощные языковые модели
 Более 7 ИИ от крупнейших разработчиков:
-- **GPT-5** и **GPT-5-mini**
-- **DeepSeek V3** и **R1**
+- **GPT-5.1** и **GPT-5.1-mini**
+- **DeepSeek V3.2** и **R1**
 - **Claude Sonnet 4.5**
 - **Grok 4** и **Grok 4 Fast**
 - **Gemini 2.5 Flash**
